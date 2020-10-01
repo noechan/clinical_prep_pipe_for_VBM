@@ -1,5 +1,5 @@
 %% COPY ORIGINAL DATA TO PREPROCESSING FOLDER
-% Noelia Mart?nez-Molina & Aleksi Sihvonen, October 2020
+% Noelia Martinez-Molina & Aleksi Sihvonen, October 2020
 
 clear all
 %% Specify paths
